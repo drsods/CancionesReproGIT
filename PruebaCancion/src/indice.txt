@@ -1,0 +1,2 @@
+Cancion cuartaCancion  = new Cancion("Feel Good Inc.", "Gorillaz", 333, false);
+Cancion quintaCancion  = new Cancion("Gasolina", "Daddy Yankee", 420, true);
